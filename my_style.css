@@ -4,6 +4,12 @@
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
+th {
+    white-space: nowrap;
+}
+table {
+    width: 100%;
+}
 /* ul {
     padding: 0px;
     margin: 0px;
